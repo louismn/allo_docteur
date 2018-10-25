@@ -14,8 +14,8 @@
 
 | Nom    |Prenom    |
 | ------ |:--------:|
-| REAU   | Alexis   |
-| PINTO  | Florian  |
+| Louis   | Alexis   |
+| Martin du Nord  | Florian  |
 
 # EXPLICATION
 
